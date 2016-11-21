@@ -11,10 +11,35 @@
     tools:context="makers.android.myfirstapp.MainActivity">
 
     <TextView
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Wanda!"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:text="Hello Makers"
+        android:padding="50dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/btnYes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:text="Yes"
+        android:layout_marginLeft="55dp"/>
+
+    <Button
+        android:id="@+id/btnNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/btnYes"
+        android:layout_below="@id/textView"
+        android:text="No"
+        android:layout_marginLeft="80dp"/>
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnNo"
+        android:text="Cancel"/>
+
 </RelativeLayout>
