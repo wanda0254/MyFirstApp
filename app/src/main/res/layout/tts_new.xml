@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="H" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="I" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="M" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="A" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="K" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="E" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="R" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="S" android:layout_weight="1"
+            android:layout_gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="M" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="A" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="N" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="A" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="K" android:layout_weight="1"
+            android:layout_gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="T" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="O" android:layout_weight="1"
+            android:layout_gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="T" android:layout_weight="1"
+            android:layout_gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="" android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <Button
+            android:text="A" android:layout_weight="1"
+            android:layout_gravity="center"/>
+    </TableRow>
+
+
+</TableLayout>
